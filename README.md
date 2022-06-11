@@ -1,2 +1,2 @@
 # kube-autoscaling
-Experiments to optimize auto-scaling of Kubernetes deployments.
+Simulation experiments to optimize auto-scaling of Kubernetes deployments.
