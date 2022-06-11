@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "kube-autoscaling"
+version = "0.1.0"
+description = "Simulation experiments to optimize auto-scaling of Kubernetes deployments."
+authors = ["Mehmet Aktas <mehmet@overjet.ai>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+simpy = "^4.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
